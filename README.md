@@ -3,7 +3,7 @@
 Meu nome é Daniely Lauro
 
 - Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na liguagem JavaScript e utilizo o [PS.js](https://p5js
+- Estou me desenvolvendo na liguagem JavaScript e utilizo o [PS.js](https://p5js)
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
 ### Você pode entrar em contato comigo 📫
